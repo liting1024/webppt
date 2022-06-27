@@ -8,7 +8,12 @@
   "dependencies": {
     "@slidev/cli": "^0.29.2",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-penguin": "^1.4.1",
+    "slidev-theme-penguin--kevin-fabre": "^1.0.0"
   },
-  "name": "slidev"
+  "name": "slidev",
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.5"
+  }
 }
