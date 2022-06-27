@@ -44,7 +44,7 @@ image: ./reward.png
 
 ---
 layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
+image: ./flower.png
 ---
 
 # 联盟能提供什么帮助？
@@ -57,7 +57,7 @@ image: https://source.unsplash.com/collection/94734566/1920x1080
 
 ---
 layout: image-left
-image: https://source.unsplash.com/collection/94734560/1920x1080
+image: ./coding.png
 ---
 
 # 流程安排
@@ -80,16 +80,9 @@ image: https://source.unsplash.com/collection/94734560/1920x1080
 layout: center
 ---
 
-# End
-
-<br>
-```python{monaco}
-print('HelloWord')
-print('欢迎加入')
-print('请戳链接报名')
-```
+# 欢迎加入暑期开发
 <br>
 
-[IMUDEGS新闻]()
+[IMUDEGS新闻网](https://news.imudges.com)
 
 [报名链接](https://docs.qq.com/sheet/DS0NJWklCV3VKbUta)
